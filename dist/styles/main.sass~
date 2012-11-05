@@ -1,0 +1,4 @@
+@import compass_twitter_bootstrap
+
+svg:not(:hover) .axes 
+    display: none
